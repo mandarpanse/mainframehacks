@@ -1,3 +1,3 @@
-A [CICS Channels and Containers] (/cics-channel-container.md "cics-channel-container")
+A [cics-channel-container] (cics:cics-channel-container.md "cics-channel-container")
 
   
